@@ -1,10 +1,10 @@
-# PokéVault v26
+# PokéVault v26.0
 
 Pokémon card & sealed product portfolio tracker with live TCG prices, price history charts, graded card market data, trade analyser, P/L dashboard, and public portfolio sharing.
 
 ## What's new in v26
 
-### Graded card chart system (ported from v17)
+### Graded card chart system (ported from v17.0)
 - **Dynamic grade chips** — the card detail chart row now renders grade buttons based on what `salesByGrade` data the API actually returns, instead of hardcoded PSA 10 / PSA 9 / BGS 10 buttons.
 - **All grades supported** — PSA 10/9/8/7, BGS 10/9.5/9, CGC 10/9.5/9, SGC 10/9, and any future grades the API returns.
 - **Compare all** — overlay multiple grades on one multi-line chart to compare market prices side by side.
